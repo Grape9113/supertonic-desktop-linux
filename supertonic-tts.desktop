@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Supertonic TTS
+Comment=Local text-to-speech with Supertonic
+Exec=__APP_DIR__/run-supertonic-tts.sh
+Path=__APP_DIR__
+Icon=audio-x-generic
+Terminal=false
+Categories=AudioVideo;Audio;
+StartupNotify=true
